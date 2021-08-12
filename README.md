@@ -56,6 +56,6 @@ DJI FPV Combo with Googles V2 may work, but no devices for test.
 
 3. To confirm the detector, use `python ./lib/darknet_images.py --input hourses.jpg`
 #### Current problem
-1. The video steam quality is terrible, and may lead to error detection results.
+1. The video steam quality is terrible, and may lead to error detection results. Can ffmpeg fix this?
 2. Not try on the Combo.
 3. Calibrate camera.
