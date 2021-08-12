@@ -1,0 +1,5 @@
+#writer
+fifo_name: './fifo_file'
+time_sleep: 0.1
+
+
