@@ -41,6 +41,10 @@ DJI FPV Combo with Googles V2 may work, but no devices for test.
     ```apex
     python detect.py
     ```
+![Result](./single.jpg)
+![Result](./fpv.gif)
+
+
 #### Detector information
 - The current detector is yolov4-tiny, for other models, you need copy related cfg and pre-trained weights files from darknet project to `./cfg`.
 - For local model training, you further need to label your own dataset, and may also need a GPU server. And all the related files in `./cfg` need to replace.
